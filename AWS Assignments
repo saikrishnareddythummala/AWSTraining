@@ -1,1 +1,6 @@
-Completed AWS MySQL DB creation.
+Assignment 1:
+I created an IAM user with EC2 full access and created an EC2 instance with default settings. 
+I ensured that "Delete on Termination" was checked for EBS storage and successfully deleted the instance, which also deleted the underlying EBS volume.
+
+Assignment 2:
+Completed RDB creation creation and accessed it from the EC2 instance.
